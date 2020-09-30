@@ -1,7 +1,8 @@
 package exercise1;
 
-public class tree{
-  public static void main (String[] args){
+public class tree {
+  
+  public static void main (String[] args) {
 System.out.print("    *\n");
 System.out.print("   ***\n");
 System.out.print("  *****\n");

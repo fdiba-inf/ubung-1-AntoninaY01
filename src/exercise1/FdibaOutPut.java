@@ -1,7 +1,8 @@
 package exercise1;
 
-public class FdibaOutPut{
-  public static void main (String[] args){
+public class FdibaOutPut {
+  
+  public static void main (String[] args) {
     System.out.println("FFFFF DDDDD   II BBBBB      A");
     System.out.println("F     D    D  II B    B    A A");
     System.out.println("FFFF  D     D II BBBBB    AAAAA");
